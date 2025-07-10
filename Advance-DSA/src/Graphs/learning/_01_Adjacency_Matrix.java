@@ -1,4 +1,4 @@
-package Graphs;
+package Graphs.learning;
 
 public class _01_Adjacency_Matrix {
 

@@ -6,7 +6,7 @@ import java.util.*;
 
 //this is a surface level graph
 
-public class _02_Adjacency_List {
+public class _02_IL_Graph1_Adjacency_List {
     public static class Graph {
         private Map<Integer, ArrayList<Integer>> adjList;
         private int numOfNodes;

@@ -2,7 +2,7 @@ package Graphs.learning;
 
 import java.util.*;
 
-public class _03_DFS {
+public class _03_IL_Graph1_DFS {
 
     public static class Graph {
         private Map<Integer, ArrayList<Integer>> adjList;

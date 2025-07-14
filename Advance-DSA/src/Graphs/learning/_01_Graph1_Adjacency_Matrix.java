@@ -1,6 +1,6 @@
 package Graphs.learning;
 
-public class _01_Adjacency_Matrix {
+public class _01_Graph1_Adjacency_Matrix {
 
     public static class Graph {
         private int[][] adjMatrix;

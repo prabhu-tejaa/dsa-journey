@@ -11,6 +11,8 @@ public class graph_notes {
         Implementation Lab Graph 2  | leetcode. 994 (famous FANG problem) (graph on grids), shortest path form source node, dijkstra algorithm
 
 
+
+        // things to understand
         understand what kind of graph, any given graph is. Weather it is:
         directed or undirected
         weighted or unweighted

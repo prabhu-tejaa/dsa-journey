@@ -1,5 +1,4 @@
 package Graphs.leetcode;
-import java.util.*;
 
 /*
         here 0 = water, 1 = island.
@@ -12,7 +11,7 @@ import java.util.*;
         keep a counter to count the no of islands
 */
 
-public class leetcode_200 {
+public class _01_Graph2_leetcode_200 {
 
     static void dfs(int i, int j, int rows, int cols, int[][] visited, char[][] grid){
         visited[i][j] = 1;
